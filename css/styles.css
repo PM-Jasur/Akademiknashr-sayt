@@ -1,0 +1,198 @@
+.site-header {
+    background-color: #FFF;
+}
+
+.sitenav-list{
+    list-style: none;
+}
+
+.sitenav-link-a {
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #000;
+}
+
+.main-link {
+    font-size: 13px;
+    line-height: 15px;
+    background-color: #FF7500;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.hero {
+    background-color: #252420;
+    color: #FFF;
+}
+
+.hero-content {
+    width: 390px;
+
+}
+
+.orange-hr {
+    width: 80px;
+    height: 3px;
+    background-color: #FF7500;
+}
+
+.hero-heading {
+    font-size: 40px;
+    line-height: 120%;
+    letter-spacing: 0.5px;
+}
+
+.hero-text {
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+}
+
+.hero-img {
+    width: 510px;
+    height: 510px;
+}
+
+.Features {
+    width: 1440px;
+    background-color: #FFF;
+}
+
+.features-heading {
+    width: 440px;
+    size: 72px;
+    color: #000;
+    font-size: 72px;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+}
+
+.features-box {
+    width: 340px;
+    height: 245px;
+}
+
+.features-list {
+    width: 1100px;
+    height: 245px;
+    display: flex;
+}
+
+.features-img {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255, 117, 0, 0.2);
+    border-radius: 90px;
+}
+
+.box-heading {
+    font-size: 24px;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+    font-weight: 700;
+}
+
+.box-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    font-weight: 400;
+}
+
+.sale {
+    background-color: #FFF;
+}
+.sale-bg{
+    width: 1100px;
+    height: 420px;
+    background: #252420;
+    display: flex;
+}
+.sale-content {
+    width: 440px;
+    height: 290px;
+
+}
+
+.sale-img {
+    width: 440px;
+    height: 440px;
+    border-radius: 12px;
+
+}
+
+.sale-heading {
+    font-size: 40px;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+    color: #FFF;
+}
+
+.sale-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+    color: #FFF;
+    font-weight: 400;
+
+}
+.promo-highlight {
+    color: #FF7500;
+}
+
+.sale-info {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    color: #FFF;
+}
+.site-footer {
+    width: 1440px;
+}
+.site-footer-top {
+    width: 1100px;
+    justify-content: space-between;
+    height: 60px;
+    display: flex;
+}
+.site-footer-bottom {
+    width: 11000px;
+    height: 230px;
+    gap: 68px;
+    display: flex;
+}
+.Restangle {
+    width: 1100px;
+    height: 2px;
+    color: #252420;
+}
+.site-footer-bg {
+    width: 1440px;
+    height: 510px;
+    color: #f8f8f8;
+
+}
+.socials {
+    width: 105px;
+    height: 25px;
+    gap: 16px;
+    display: flex;
+}
+.site-footer-links-list {
+    width: 225px;
+    gap: 16px;
+}
+.site-footer-link {
+    text-decoration: none;
+    color: #252420;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: 0;
+}
